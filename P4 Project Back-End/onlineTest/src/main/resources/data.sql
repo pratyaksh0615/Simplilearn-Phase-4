@@ -8,7 +8,7 @@ insert into categories(category_id, category_name) values (4, 'Social Studies');
 
 delete from users;
 insert into users (user_email, user_password, user_name, user_role)
-values ('admin@onlintest.com', 'Pa$sw0rd', 'admin', 'A');
+values ('pratyaksh.saxena151298@gmail.com.com', 'Pa$sw0rd', 'PratyakshSaxena', 'A');
 insert into users (user_email, user_password, user_name, user_role)
 values ('johndoe@gmail.com', 'Pa$sw0rd', 'johndoe', 'R');
 insert into users (user_email, user_password, user_name, user_role)
