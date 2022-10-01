@@ -12,7 +12,6 @@ values ('pratyaksh.saxena151298@gmail.com.com', 'Pa$sw0rd', 'PratyakshSaxena', '
 insert into users (user_email, user_password, user_name, user_role)
 values ('johndoe@gmail.com', 'Pa$sw0rd', 'johndoe', 'R');
 insert into users (user_email, user_password, user_name, user_role)
-values ('marry@gmail.com', 'Pa$sw0rd', 'marry', 'E');
 
 delete from answers;
 delete from choices;
